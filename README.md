@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is Rube goldberg's helloworld. A project that demonstrates a complex, memory intensive and somewhat confusing **Hello World** program.
+This is Rube Goldberg Hello World. A project that demonstrates a complex, memory intensive and somewhat confusing **Hello World** program.
 
 **Hello World** is the first ever thing people learn in their journey to become programmer's. So a fun idea was born here to make it as confusing as we can.
 
